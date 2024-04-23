@@ -7,6 +7,7 @@ void main() {
   PersonVo pv2 = PersonVo("황일영",hp: "010", company: "02"); //
   print(pv2);
 
+
 }
 
 class PersonVo {
