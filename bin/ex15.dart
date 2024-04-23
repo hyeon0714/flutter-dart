@@ -6,7 +6,6 @@ void main() {
   //이름만 포지셔널로
   PersonVo pv2 = PersonVo("황일영",hp: "010", company: "02"); //
   print(pv2);
-
 }
 
 class PersonVo {
